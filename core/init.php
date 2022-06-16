@@ -10,12 +10,12 @@ session_start();
 // $query_builder = TRUE;
 
 
-
+// mysql://b4859973856a0c:321472c6@eu-cdbr-west-02.cleardb.net/heroku_e9e93110ed9cf9a?reconnect=true
 $GLOBALS['config'] = array(
     'mysql' => array(
-        'host' => "localhost",
-        "username" => "root",
-        'password' => "",
+        'host' => "eu-cdbr-west-02.cleardb.net/",
+        "username" => "b4859973856a0c",
+        'password' => "heroku_e9e93110ed9cf9a",
         'db' => 'unghii_toma'
     ),
     'remember' => array(
