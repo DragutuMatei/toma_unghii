@@ -312,7 +312,7 @@ a.demo--current {
   font-weight: 800;
   font-size: 1.5em;
   margin: 0 0 2em 0;
-  text-shadow: 0px 0px 11px black;
+  text-shadow: 0px 0px 11px white;
   cursor: default;
   color: var(--color-sdesc);
   padding: 0 1em;
