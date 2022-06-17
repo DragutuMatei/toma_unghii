@@ -465,25 +465,26 @@ if ($_GET && $_GET['msg']) {
         <div class="slide slide--current">
           <div class="slide__img" style="background-image: url(img/1.jpg); background-size: auto"></div>
           <h2 class="slide__title">Dazzling</h2>
-          <p class="slide__desc"><i>"Manichiura este cartea de vizita a femeii"</i></p>
+          <p class="slide__desc">O fata fara unghii frumoase e ca noaptea fara stele.</p>
           <a class="slide__link" href="#">Discover more</a>
         </div>
         <div class="slide">
           <div class="slide__img" style="background-image: url(img/2.jpg); background-size: auto"></div>
           <h2 class="slide__title">Brilliant</h2>
-          <p class="slide__desc"><i>"Manichiura este cartea de vizita a femeii"</i></p>
+          <p class="slide__desc">O fata fara unghii frumoase e ca noaptea fara stele.</p>
           <a class="slide__link" href="#">Find inspiration</a>
         </div>
         <div class="slide">
           <div class="slide__img" style="background-image: url(img/3.jpg); background-size: auto"></div>
           <h2 class="slide__title">Sensational</h2>
-          <p class="slide__desc"><i>"Manichiura este cartea de vizita a femeii"</i></p>
+          <p class="slide__desc">O fata fara unghii frumoase e ca noaptea fara stele.</p>
+
           <a class="slide__link" href="#">Find out more</a>
         </div>
         <div class="slide">
           <div class="slide__img" style="background-image: url(img/4.jpg); background-size: auto"></div>
           <h2 class="slide__title">Vibrant</h2>
-          <p class="slide__desc"><i>"Manichiura este cartea de vizita a femeii"</i></p>
+          <p class="slide__desc">O fata fara unghii frumoase e ca noaptea fara stele.</p>
           <a class="slide__link" href="#">Paint your future</a>
         </div>
       </div>
@@ -524,7 +525,7 @@ if ($_GET && $_GET['msg']) {
       <div class="left" style="text-align: right; align-items: flex-end; padding-right: 50">
         <h2>About</h2>
         <p>
-          O fata fara unghii frumoase e ca noaptea fara stele.
+          <i>"Manichiura este cartea de vizita a femeii"</i>
         </p>
         <p>
           Felul în care unghiile tale arata sunt o prima impresie pentru interlocutorii tai, prin urmare trebuie sa acorzi o atenție speciala îngrijirii lor.
