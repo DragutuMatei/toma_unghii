@@ -522,7 +522,7 @@ if ($_GET && $_GET['msg']) {
     <div class="bara"></div>
 
     <div class="about" id="about" style="flex-direction: row-reverse; margin-bottom: 0; margin-top: 0">
-      <div class="left" style="text-align: right; align-items: flex-end; padding-right: 50">
+      <div class="left" style="text-align: right; align-items: flex-end; padding-right: 50px">
         <h2>About</h2>
         <p>
           <i>"Manichiura este cartea de vizita a femeii"</i>
