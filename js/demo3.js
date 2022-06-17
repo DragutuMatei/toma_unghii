@@ -186,7 +186,7 @@
                     });
         
                     anime({
-                        targets: [newSlide.querySelector('.slide__title'), newSlide.querySelector('.slide__link')],
+                        targets: [newSlide.querySelector('.slide__title'),newSlide.querySelector('.slide__desc'), newSlide.querySelector('.slide__link')],
                         duration: this.settings.animation.slides.duration*2,
                         easing: this.settings.animation.slides.easing,
                         delay: (t,i) => i*100+100,
