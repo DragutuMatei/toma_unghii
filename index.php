@@ -524,10 +524,10 @@ if ($_GET && $_GET['msg']) {
       <div class="left" style="text-align: right; align-items: flex-end; padding-right: 50">
         <h2>About</h2>
         <p>
-         O fata fara unghii frumoase este asemeni unei nopti fara stele.
+          O fata fara unghii frumoase e ca noaptea fara stele.
         </p>
         <p>
-        Felul în care unghiile tale arata sunt o prima impresie pentru interlocutorii tai, prin urmare trebuie sa acorzi o atenție speciala îngrijirii lor.
+          Felul în care unghiile tale arata sunt o prima impresie pentru interlocutorii tai, prin urmare trebuie sa acorzi o atenție speciala îngrijirii lor.
         </p>
       </div>
       <img src="img/5.jpg" alt="" />
